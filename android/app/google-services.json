@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "266847492661",
+    "firebase_url": "https://floodapp-24561.firebaseio.com",
+    "project_id": "floodapp-24561",
+    "storage_bucket": "floodapp-24561.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266847492661:android:0b66c24827301fc4bb2f7c",
+        "android_client_info": {
+          "package_name": "com.example.floodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266847492661-e9c9l1vq2tgva4kvom6htjrv4143fi1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzXlvuxvWmqE8B_jxje9bLWA3lRO4sjyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266847492661-e9c9l1vq2tgva4kvom6htjrv4143fi1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
